@@ -176,8 +176,4 @@ The detailed analysis, visualizations, and a comprehensive final report with spe
 *   **Customer Segmentation:** Perform advanced clustering to identify distinct customer segments and tailor retention strategies further.
 *   **Cost-Benefit Analysis:** Quantify the potential impact of recommendations by estimating the cost of churn versus the cost of retention initiatives.
 
-## 10. Contact
 
-*   **Name:** Your Name
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **GitHub:** [Your GitHub Profile URL]
